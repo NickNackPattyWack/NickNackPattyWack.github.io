@@ -127,5 +127,5 @@ tr:nth-child(odd) td { background: #FEFEFE; }
 tr td:hover { background: #666; color: #FFF; }  
 
 .tableATM{
-  text-align: center;
+  align: center;
 }
