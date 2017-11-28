@@ -72,7 +72,7 @@ article{
   margin: 0 auto;
 }
 div{
-  align: center;
+  text-align: center;
 }
 table {  
   color: #333; 
